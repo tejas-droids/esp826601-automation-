@@ -1,3 +1,6 @@
+
+
+// https://www.electroniclinic.com/water-flow-sensor-arduino-water-flow-rate-volume-measurement/ LINK FOR FLOW SENSR https://randomnerdtutorials.com/interrupts-timers-esp8266-arduino-ide-nodemcu/
 #include <ESP8266WiFi.h>
 #include <ESP8266HTTPClient.h>
 #include <ESP8266WebServer.h>
